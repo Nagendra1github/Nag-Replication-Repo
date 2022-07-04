@@ -8,17 +8,11 @@ To sort out the issue.
 
 Thank you
 
-Part-1 completed
 
-HTML Code
-
-<HTML>
-  
-  <h> This is my first code<h>
+   Hello California 
+   
+   Hello united states
+   
+   Hello USA
     
-   <body> Please select any on of the module and do the 
-     specialization </body>
-    
-    </HTML>
-    
-    
+enable to add anything

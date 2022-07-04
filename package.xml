@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>53.0</version>
     <types>
+        <members>A00000AADmnDec</members>
+        <members>A30</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AR_Dashboard__c.Author__c</members>
+        <members>AR_Dashboard__c.AutorabitExtId__c</members>
+        <members>AR_Dashboard__c.DL_Category__c</members>
+        <members>AR_Dashboard__c.DL_CreatedTime__c</members>
+        <members>AR_Dashboard__c.DL_Duration__c</members>
+        <members>AR_Dashboard__c.Dep_BackUp__c</members>
+        <members>AR_Dashboard__c.Dep_MetadataTypes__c</members>
+        <members>AR_Dashboard__c.Dep_SourceType__c</members>
+        <members>AR_Dashboard__c.Dep_Step__c</members>
+        <members>AR_Dashboard__c.Dep_TestErrorCount__c</members>
+        <members>AR_Dashboard__c.Dep_TestSuccessCount__c</members>
+        <members>AR_Dashboard__c.Destination_Org__c</members>
+        <members>AR_Dashboard__c.Error_Count__c</members>
+        <members>AR_Dashboard__c.Label__c</members>
+        <members>AR_Dashboard__c.Process_Type__c</members>
+        <members>AR_Dashboard__c.Source_Org__c</members>
+        <members>AR_Dashboard__c.Start_Time__c</members>
+        <members>AR_Dashboard__c.Status__c</members>
+        <members>AR_Dashboard__c.Success_Count__c</members>
+        <members>Approver__c.Delegated_Approver__c</members>
+        <members>Approver__c.Deligation_end_date__c</members>
+        <members>Approver__c.Deligation_start_date__c</members>
+        <members>Approver__c.Group_ID__c</members>
+        <members>Approver__c.User__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>AR_Dashboard__c</members>
+        <members>Approver__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AR_Dashboard__c.AR_Dashboard</members>
+        <members>AR_Dashboard__c.AR_Operations</members>
+        <members>AR_Dashboard__c.All</members>
+        <members>Approver__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>AR_Dashboard__c.Data_Loader</members>
+        <members>AR_Dashboard__c.Deployments</members>
         <members>ApexAbc1</members>
         <members>ApexAbc2</members>
         <name>ApexClass</name>
